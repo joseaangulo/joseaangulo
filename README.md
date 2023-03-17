@@ -2,7 +2,7 @@
 
 **`Certified Computer Guy (Developer/Technician/Problem Solver)`**
 
-I'm a full-stack developer and general problem solver building projects that shape the world. I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. I aspire to develop software to increase productivity and simplify our everyday lives
+I'm a full-stack developer and general problem solver building projects that shape the world. It's exciting to solve problems, whether it be figuring out how to optimize a certain part of an application or entirely coming up with new applications to solve certain needs. I aspire to develop software to increase productivity and simplify our everyday lives.
 
 
 ---
